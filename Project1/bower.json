@@ -1,0 +1,21 @@
+{
+  "name": "Project1",
+  "homepage": "https://github.com/msalem07/Project1",
+  "authors": [
+    "Mariano S <msalem_deeap0810@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "knockout": "^3.4.1"
+  }
+}
